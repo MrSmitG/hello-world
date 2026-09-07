@@ -1,0 +1,6 @@
+# No external packages required — uses Python standard library (tkinter).
+# BSSPKG must be available on your machine with pipeline1, workR2, macro3,
+# excel_refresh4, and PivotUp5 modules.
+#
+# Optional (for Outlook Classic integration later):
+# pywin32>=306
